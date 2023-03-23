@@ -6,8 +6,12 @@ The idea is taken from [Hyperbolic autoencoders for recommender systems](https:/
 
 ## Table of Contents
 
+- [Requirements](#req)
 - [Data](#data)
 - [Code](#code)
+
+## Requirements
+Our code is based on [Rieoptax](https://github.com/SaitejaUtpala/rieoptax) library, which provides JAX implementation of functions optimization on Riemanian Manifolds.
 
 ## Data
 All training and test data used for trainig AE model can be found in `data` folder.

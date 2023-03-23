@@ -11,13 +11,14 @@ The idea is taken from [Hyperbolic autoencoders for recommender systems](https:/
 - [Code](#code)
 
 ## Requirements
-Our code is based on [Rieoptax](https://github.com/SaitejaUtpala/rieoptax) library, which provides JAX implementation of functions optimization on Riemanian Manifolds.
+In order to launch scripts, you need to install latest JAX version.
+Also, our code is based on [Rieoptax](https://github.com/SaitejaUtpala/rieoptax) library, which provides JAX implementation of functions optimization on Riemanian Manifolds. 
 
 ## Data
 All training and test data (basically MovieLens dataset) used for trainig AE model can be found in `data` folder.
 
 ## Code
-Ipynb notebooks can be found in root directory. 
+Ipynb notebooks can be found in root directory.
 
 
 

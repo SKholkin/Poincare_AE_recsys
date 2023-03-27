@@ -10,6 +10,16 @@ The idea is taken from [Hyperbolic autoencoders for recommender systems](https:/
 - [Data](#data)
 - [Code](#code)
 
+## Running
+
+For checking out Jax AutoEncoder of Movielens 1M data check out `MovieLensAE.ipynb`
+
+For checking out Jax Linear Euclidean and Poincare ball models heck out  `Euclidian_linear_poincare_linear_toys.ipynb`
+
+## Report
+
+Text verision of report (paper) can be accessd via `RecSys_Report.pdf`
+
 ## Requirements
 In order to launch scripts, you need to install latest JAX version.
 Also, our code is based on [Rieoptax](https://github.com/SaitejaUtpala/rieoptax) library, which provides JAX implementation of functions optimization on Riemanian Manifolds. 

@@ -16,6 +16,10 @@ For checking out Jax AutoEncoder of Movielens 1M data check out `MovieLensAE.ipy
 
 For checking out Jax Linear Euclidean and Poincare ball models heck out  `Euclidian_linear_poincare_linear_toys.ipynb`
 
+For checking out Poincare MLP on toy example you can use `PoincareMLP.ipynb`
+
+Unfortunately someting has gone wrong with Poincare AE in `poincare_AE.ipynb`
+
 ## Report
 
 Text verision of report (paper) can be accessd via `RecSys_Report.pdf`
